@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div_parts {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.div_body {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.body_div {
+    width: 50%;
+    border: 1px solid black;
+}
