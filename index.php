@@ -18,8 +18,8 @@
             <div class="body_div">
                 <h2>Intro</h2>
                 <h1></h1>
-                <p>This part has span and echoes the variable initial value</p><span id="initial"></span>
-                <p>This part has span and echoes the variable changed value</p><span id="changed"></span>
+                <p>This part has span and echoes the variable initial value</p><span id="initial"></span><span id="initial_bool"></span>
+                <p>This part has span and echoes the variable changed value</p><span id="changed"></span><span id="changed_bool"></span>
             </div>
         </div>
         <div class="div_parts"></div>
